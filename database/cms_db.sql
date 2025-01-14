@@ -131,7 +131,7 @@ CREATE TABLE `client_list` (
 --
 
 INSERT INTO `client_list` (`id`, `firstname`, `middlename`, `lastname`, `gender`, `contact`, `address`, `email`, `password`, `image_path`, `status`, `delete_flag`, `date_created`, `date_added`) VALUES
-(1, 'Claire', 'C', 'Female', 'Male', '091234569987', 'Block 6 Lot 23, Here Subd., There City, Anywhere, 2306', 'cblake@sample.com', '4744ddea876b11dcb1d169fadf494418', 'uploads/clients/1.png?v=1644995661', 1, 0, '2022-02-16 13:06:42', '2022-02-16 15:14:21');
+(1, 'Claire', 'C', 'Female', '091234569987', 'Block 6 Lot 23, Here Subd., There City, Anywhere, 2306', 'cblake@sample.com', '4744ddea876b11dcb1d169fadf494418', 'uploads/clients/1.png?v=1644995661', 1, 0, '2022-02-16 13:06:42', '2022-02-16 15:14:21');
 
 -- --------------------------------------------------------
 
